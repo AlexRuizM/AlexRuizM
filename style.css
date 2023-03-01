@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(59, 59, 60);
+    color: aliceblue;
+    text-overflow: unset;
+}
+table {
+    text-size-adjust: 30px;
+}
+.first-day {
+    grid-column-start: 3;
+}
