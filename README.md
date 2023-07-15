@@ -1,16 +1,23 @@
-### Hi there 👋
+# 🚀 ¡Hola! Soy AlexRuizM
 
-<!--
-**AlexRuizM/AlexRuizM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Profesional especializado en gestión empresarial, tecnología y desarrollo web.
 
-Here are some ideas to get you started:
+- Participé en un Bootcamp de Desarrollo Web Full Stack en CodeSpace Academy, adquiriendo habilidades en diseño de aplicaciones y desarrollo web con tecnologías como HTML, CSS, JavaScript, React.Js, Node.Js y MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mi enfoque se centra en analizar y desarrollar soluciones de negocio para empresas, tomando decisiones sobre las herramientas más adecuadas en el mundo digital.
+
+- Siempre en búsqueda de aprendizaje y crecimiento en el ámbito tecnológico, me mantengo actualizado con las últimas tendencias y tecnologías emergentes.
+
+- Experiencia en consultoría, colaborando en la implementación de soluciones tecnológicas innovadoras y optimizando procesos para proyectos digitales.
+
+## 🌱 ¡Explora mis proyectos en GitHub!
+
+- [Repositorio 1](enlace-a-tu-repositorio-1): Breve descripción del repositorio.
+- [Repositorio 2](enlace-a-tu-repositorio-2): Breve descripción del repositorio.
+- [Repositorio 3](enlace-a-tu-repositorio-3): Breve descripción del repositorio.
+
+## 📈 ¡Conectemos y colaboremos!
+
+- [LinkedIn]([(https://www.linkedin.com/in/alejandroruizmartin/)])
+
+¡Estoy emocionado por seguir impulsando el éxito de empresas y entidades a través de soluciones tecnológicas y estrategias digitales efectivas! ¡Espero ver tu contribución y colaborar en futuros proyectos emocionantes!
