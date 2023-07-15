@@ -12,9 +12,9 @@
 
 ## 🌱 ¡Explora mis proyectos en GitHub!
 
-- [Repositorio 1](enlace-a-tu-repositorio-1): Breve descripción del repositorio.
-- [Repositorio 2](enlace-a-tu-repositorio-2): Breve descripción del repositorio.
-- [Repositorio 3](enlace-a-tu-repositorio-3): Breve descripción del repositorio.
+- [Repositorio 1](enlace-a-tu-repositorio-1): Proximamente.....
+- [Repositorio 2](enlace-a-tu-repositorio-2): Proximamente.....
+- [Repositorio 3](enlace-a-tu-repositorio-3): Proximamente.....
 
 ## 📈 ¡Conectemos y colaboremos!
 
